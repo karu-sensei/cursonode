@@ -1,0 +1,26 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "curso de node ipvg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karu-sensei/cursonode.git"
+  },
+  "author": "karu-sensei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karu-sensei/cursonode/issues"
+  },
+  "homepage": "https://github.com/karu-sensei/cursonode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
