@@ -18,6 +18,11 @@ const imprimir2= ()=>{
 
 const imprimir3= ()=> console.log("imprimiendo datos3");
 const imprimir4= ()=> "imprimiendo datos4";
+const imprimir5= (nombre, edad)=>{
+    edad+=10;
+    return "saludos";
+
+}
 
 console.log(imprimir());
 console.log(imprimir2());
